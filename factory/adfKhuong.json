@@ -1,0 +1,9 @@
+{
+	"name": "adfKhuong",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80643465-f76e-459f-8326-b65426fd593f",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
